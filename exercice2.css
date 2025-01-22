@@ -1,0 +1,19 @@
+.container{
+    background-color: beige;
+}
+.Box{
+    border: 1px solide;
+    background-color: white;
+}
+.Box-highligh{
+    color: blue;
+}
+.list-item{
+    color: rgb(62, 222, 18);
+}
+div{
+    margin: 10px;
+}
+p{
+    color: red;
+}

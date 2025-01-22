@@ -1,0 +1,17 @@
+#secondtext{
+    font-weight: bold;
+}
+.firstelement{
+    font-style: italic;
+}
+.item-highlight {
+    color: blue;
+}
+[class^="a"] {
+    background-color: yellow;
+}
+[class$="date"] {
+    background-color: green;
+}
+
+  

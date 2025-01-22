@@ -1,0 +1,17 @@
+body{
+    color: rgb(146, 167, 249);
+}
+.highlight{
+    color: blue;
+    font-weight: bold;
+}
+li {
+    color: rgb(55, 120, 218);
+}
+ul #firstelement{
+    background-color: yellow;
+}
+.special{
+    border: 2px solide;
+    background-color: rgb(196, 193, 193);
+}
